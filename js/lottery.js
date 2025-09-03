@@ -8,7 +8,7 @@ var color = ["#fde284", "#fe9103", "rgba(0,0,0,0.5)", "#ffffff", "#b10105", "#fb
 var winnerList=[
     {
         id:'1',
-        name:'128红包',
+        name:'128红包！',
         logo:'./images/红包128.png',
         probability:'5%',
     },{
@@ -210,6 +210,7 @@ var number = winnerList.length;
             }
         }
     }
+
 
 
 
